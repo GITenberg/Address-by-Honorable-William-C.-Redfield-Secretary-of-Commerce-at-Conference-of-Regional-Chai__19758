@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '3256'
     url: http://www.gutenberg.org/2009/agents/3256
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19758#Address-by-Honorable-William-C.-Redfield-Secretary-of-Commerce-at-Conference-of-Regional-Chai_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2006-11-11'
 gutenberg_type: Text
