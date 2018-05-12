@@ -1,0 +1,30 @@
+_repo: Address-by-Honorable-William-C.-Redfield-Secretary-of-Commerce-at-Conference-of-Regional-Chai__19758
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Council of National Defense. Highways Transport Committee
+    gutenberg_agent_id: '3256'
+    url: http://www.gutenberg.org/2009/agents/3256
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19758'
+language: en
+publication_note: "Washington\r\nGovernment Printing Office\r\n1918"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Highways Transport Committee, Council of National Defense, Bulletin 4
+subjects:
+- !lcsh 'Trucking'
+- !lcsh 'Transportation, Automotive'
+- !lcc 'HE'
+- !lcsh 'Roads'
+title: Address by Honorable William C. Redfield, Secretary of Commerce at Conference
+  of Regional Chairmen of the Highways Transport Committee Council of National Defense
+url: http://www.gutenberg.org/ebooks/19758
